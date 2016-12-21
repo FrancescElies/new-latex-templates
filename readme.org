@@ -1,4 +1,12 @@
-* TODO increase spacing between paragraphs
-* TODO increase spacing between numbered list items
-* TODO increase spacing between bulleted list items
-* TODO in the right header (rhead), remove space between @title and : character
+* README
+** Try it out
+#+srcname: compile the latex document
+#+begin_src shell 
+pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" document-example.tex
+#+end_src
+
+** TODOS
+*** TODO increase spacing between paragraphs
+*** TODO increase spacing between numbered list items
+*** TODO increase spacing between bulleted list items
+*** TODO in the right header (rhead), remove space between @title and : character
