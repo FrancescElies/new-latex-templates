@@ -6,6 +6,15 @@ pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" docume
 #+end_src
 
 ** TODOS
+*** TODO chose opensource licensed fonts
+**** search for alternatives to 
+  - {Garamond Premier Pro}
+  - {Myriad Pro}
+  - {Gill Sans Display MT Pro}
+**** Available options Options:
+http://www.georgduffner.at/ebgaramond/
+http://www.1001fonts.com/chunkfive-font.html
+
 *** TODO increase spacing between paragraphs
 *** TODO increase spacing between numbered list items
 *** TODO increase spacing between bulleted list items
