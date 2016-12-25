@@ -19,9 +19,11 @@ https://fontlibrary.org/
   - Garamond Premier Pro
   - Myriad Pro
   - Gill Sans Display MT Pro
+
 **** Available options Options:
 http://www.georgduffner.at/ebgaramond/
 http://www.1001fonts.com/chunkfive-font.html
+https://fontlibrary.org/en/font/gelasio
 
 *** TODO increase spacing between paragraphs
 *** TODO increase spacing between numbered list items
