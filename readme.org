@@ -1,5 +1,12 @@
 * README
 ** Try it out
+*** calling `org-export-dispatch`
+**** export to pdf, A pdf file and open
+`M-x: org-export-dispatch` `l o`
+**** export to reveal.js
+`M-x: org-export-dispatch` `R R`
+
+*** from the command line
 #+srcname: compile the latex document
 #+begin_src shell 
 pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" document-example.tex
