@@ -16,9 +16,9 @@ pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" docume
 *** TODO chose opensource licensed fonts
 https://fontlibrary.org/
 **** search for alternatives to 
-  - {Garamond Premier Pro}
-  - {Myriad Pro}
-  - {Gill Sans Display MT Pro}
+  - Garamond Premier Pro
+  - Myriad Pro
+  - Gill Sans Display MT Pro
 **** Available options Options:
 http://www.georgduffner.at/ebgaramond/
 http://www.1001fonts.com/chunkfive-font.html
