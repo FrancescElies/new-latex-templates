@@ -15,9 +15,9 @@
 \\ifxetex
   \\usepackage{fontspec,xltxtra,xunicode}
   \\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \\setromanfont{Garamond Premier Pro}
+  \\setromanfont{Gelasio}
  \\setsansfont{ChunkFive}
-  \\setmonofont{Myriad Pro}
+  \\setmonofont{Gelasio}
 \\else
   \\usepackage[mathletters]{ucs}
   \\usepackage[utf8x]{inputenc}
@@ -52,9 +52,9 @@
 \\tolerance=1000
 
 %This macro is to make cleaner the specification of the titling font
-\\newfontfamily\\mytitlefont[Color={FB782C}]{ChunkFive}
-\\newfontfamily\\myauthorfont[Color={FB782C}]{Gill Sans Display MT Pro}
-\\newfontfamily\\mybluefont[Color=electricblue]{Gill Sans Display MT Pro}
+\\newfontfamily\\mytitlefont[Color={FB782C}]{Gelasio}
+\\newfontfamily\\myauthorfont[Color={FB782C}]{Gelasio}
+\\newfontfamily\\mybluefont[Color=electricblue]{Gelasio}
 \\DeclareTextFontCommand{\\textbf}{\\rmfamily\\color{electricblue}}
 \\DeclareTextFontCommand{\\textit}{\\\itshape\\color{electricblue}}
 
