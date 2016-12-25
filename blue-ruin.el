@@ -42,12 +42,12 @@
 \\definecolor{electricblue}{HTML}{05ADF3}
 
 
-\\newtoks\\leftheader 
+\\newtoks\\leftheader
 \\newtoks\\leftheaderurl
 \\newtoks\\coverimage
 
 
-\\hyphenpenalty=5000 
+\\hyphenpenalty=5000
 \\tolerance=1000
 
 %This macro is to make cleaner the specification of the titling font
@@ -82,7 +82,7 @@
     \\vskip 1cm
   {\\mytitlefont\\fontsize{75}{85}\\bfseries{\\@title}\\par}
     \\vskip 1cm
-    
+
     %{\\myauthorfont\\fontsize{30}{40}{{\\bfseries{\\@degree}\\par}}}
 
 \\vfill
@@ -106,13 +106,13 @@
 %Don't change
 \\vfill
 }}}
-%This macro executes a hook at the beginning of the document that  puts the background correctly. 
+%This macro executes a hook at the beginning of the document that  puts the background correctly.
 \\AtBeginDocument{\\AddToShipoutPicture*{\\BackgroundPic}}
 \\AtBeginDocument{\\globalcolor{ghostlygrey}}
 
 
 
-%The maketitle macro now only includes the titling and not the background. 
+%The maketitle macro now only includes the titling and not the background.
 \\def\\maketitle{ \\newgeometry{margin=1in} \\thispagestyle{empty} \\vfill \\null \\cleardoublepage\\restoregeometry}
 
 
@@ -171,7 +171,7 @@
 \\titleformat*{\\subsubsection}{\\normalfont\\fontsize{12}{8}\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\paragraph}{\\normalfont\\normalsize\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\subparagraph}{\\normalfont\\fontsize{14}{14}\\raggedright\\bfseries\\ttfamily\\color{electricblue}}
-\\usepackage[breaklinks=true,linktocpage,xetex]{hyperref} 
+\\usepackage[breaklinks=true,linktocpage,xetex]{hyperref}
 \\hypersetup{colorlinks, citecolor=electricblue,filecolor=electricblue,linkcolor=electricblue,urlcolor=electricblue}
 
 
