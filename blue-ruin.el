@@ -93,7 +93,7 @@
 {\\myauthorfont\\Large \\bfseries{CONFIDENTIAL}}
     \\newline
     \\newline
-{\\myauthorfont\\Large © 2015 \\@author}
+{\\myauthorfont\\Large © {\\the\\year} \\@author}
     \\newline
           {\\myauthorfont\\Large \\href{mailto:dixit@aya.yale.edu}{dixit@aya.yale.edu}}
         \\newline
