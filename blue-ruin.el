@@ -14,7 +14,7 @@
 \\ifxetex
   \\usepackage{fontspec,xltxtra,xunicode}
   \\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-  \\setromanfont{Garamond Premier Pro}
+  \\setromanfont{Gelasio}
  \\setsansfont{ChunkFive}
   \\setmonofont{Gelasio}
 \\else
