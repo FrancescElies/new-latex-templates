@@ -1,0 +1,125 @@
+Dehuti
+
+Author/designer: T. Christopher White
+You can contact me if you have suggestions, find problems and know how to fix them, et cetera, at: amenemsu@gmail.com
+
+Update 10/17/2016. I’ve fixed some of the curves in a few characters that I missed while enlarging the font. I’ve slightly altered a couple of the Cyrillic glyphs, some math glyphs that were offset, updated and added more currency symbols, relocated some glyphs, plus added some new glyphs, combining diacritics, and punctuation as per the latest version of Unicode.
+
+Deḥuti /de.ˈꭓuː.tiː/, formerly Tehuti, is a modern font predominantly based off Dwiggins’ Electra, with touches from Palatino, Janson, and Goudy old style. The change from T to D in the name reflects the actual pronunciation of Tehuti, as the T is actually Ṭ, i.e., D in Kheimian. Also, given that this version has had significant alterations to its design, making it more like Electra, as well as quite a few additions and program fixes, it is essentially a new font; thus, the name change. Overall, Dehuti became what I had tried to achieve with Tehuti, i.e., a font that supports Native American and African languages, and one that is harmonized in all aspects. I did this because of my interest in linguistics, because there are so few fonts that support such languages, and because the ones that do aren’t entirely harmonized in their design. One particular aspect to Dehuti’s harmonization is my approach to the design of the Greek and Cyrillic glyphs, which have a more Latin-like feel, i.e., like Latin, their lowercase glyphs are uncial-based, given that nearly all of the languages that use these alphabets utilize the Latin form of these glyphs. Others are the additional characters, such as the hash tag, the math symbols, the arrows, et cetera, all of which are balanced with the lowercase and numbers. Also, the italicized a’s mirror the regular a’s, so as to be easily distinguished by the various languages that use them. All extra features, including alternate characters, et cetera, are available via open type tables, or, for those programs without access to open type, are in the Private Use Area at the end of the font. For those interested, Open or Libre Office can access all glyphs using Insert -> Special Character.
+
+Since Dehuti is a Unicode font, I will update it on occasion, so check back for newer versions.
+
+Note: The modifier letters are set at the optimal height for text; they are not superiors, but numerators, meaning that if you need to add additional letters to text use the numerator table, i.e., for abbreviations as in 5th, 1ère, and so on. The standard superiors are set for math.
+
+Dehuti includes:
+
+• Latin, Greek, and Cyrillic, all of which are designed to be interchangeable
+• Redesigned click consonants that have accompanying uppercase versions in the PUA
+• Redesigned Esh, Ezhes, and Yoghs
+• Extended punctuation and brackets. For the uppercase middle dot, use (2E31). I placed the Teuthonista double bar on (2E3F). For those unfamiliar with the “reversed” question mark (2E2E), it is used for ironic statements.
+• Most currency symbols, including the newest additions, such as bitcoin
+• Fractions, as well as a ton of math symbols, arrows, geometric shapes, and pictographs with some alternate designs in the bold versions
+• Latin superscripts, subscripts, numerators (with additions for modifier letters), and denominators, which are ordered as listed
+• Proportional (lining) numbers, which are in the PUA, and are followed by the tabular styles of both
+• Redesigned turned As, Alphas, short a (turned v), rams horn, small capital r, inverted small capital r, and turned w and y, which more so reflect their pronunciations
+• Redesigned velar, palatal and retroflex characters
+• Redesigned glottal stops. Their new design resembles curved 7s, i.e., they lack the stem, which is preferred in the languages that use them, and are also set at lowercase height. If you need to use cased versions, those are (0241 & 0242), and (01B8 & 01B9) for the voiced pharyngeal fricatives, i.e., the reversed Ezhes.
+• IPA, UPA, & Teuthonista (Latin Extended-E)
+• Capital small capital I (A7AE), counterpart to small capital ɪ (026A)
+• J with crossed-tail (A7B2), counterpart to (029D)
+• Latin Chis (A7B3 & AB53), Betas (A7B4 & A7B5), and Omegas (A7B6 & A7B7)
+• Cyrillic alternates for Macedonian, Serbian, and Bulgarian
+• SIL additions, which start at F1A1: 1) Nine-step tone markers for African orthographies (F1F1-F1F9); 2) Retroflex D with hook (F20D), counterpart to (1D91); 3) Z with palatal hook (F234), counterpart to (1D8E); 4) ezh with palatal hook (F235); and, 5) a & A for Kaolib (F247 & F248).
+
+These are my additions, which are mostly in the PUA:
+
+• Latin Yeris (0184 & 0185), i.e., the Latin tone six letters. This letter, used with Janalif, is the equivalent of Latin letter dotless I.
+• Alternate diacritical marks replacing the deprecated grave and acute tones (0340 & 0341) - these are the Saurashtra candrabindu, and a combined caron and comma above for Native American languages.
+• Triple diacritic marks, which anchor to the center character: circumflex (1AFC), inverted breve (1AFD), breve below (1AFE), tilde below (1AFF)
+• Circled Logical And on circled Latin capital letter A (24B6)
+• Question and exclamation marks with commas (E000–E003)
+• A with right half ring (E049), counterpart to (1E9A)
+• Bilabial trill B (E0E7), counterpart to the SIL addition (F2D6)
+• Alternate B with hook (E0E9)
+• Alternate Cyrillic Ve (E0E8)
+• Alternate stroked B/b (A796 & A797)
+• Alternate Cyrillic be (E0F2)
+• Alternate Cyrillic ve (E0F3)
+• Alternate stroked D/d (E11F & E131)
+• Latin Delta (E121), counterpart to 1E9F
+• Dh/Dl and dh/dl for Native American (2144 & 028E)
+• Alternate African D (E122)
+• Alternate F20D, or African D with hook (E123 & E125)
+• Alternate D with hook (E124)
+• Alternate Cyrillic de (E133)
+• Open E variant (E179); turned open E is (2108)
+• Open e variant for Teuthonista (E1C0); turned open e is (0258)
+• Florin, i.e., for currency use (E249) - This glyph is an open type alternate of (0192)
+• Alternate stroked g (E260)
+• Alternate hooked g (E261)
+• Teuthonista g with stroked tail (E262)
+• Alternate Cyrillic ghes (E263 & E264)
+• H with line below (E282), counterpart to (1E96)
+• Alternate barred H/h (E285 & E28F)
+• Alternate H with hook (E286)
+• Latin Yerus (E2C7 & E300). This letter, used with Wahki, is the equivalent of Latin letter I with stroke.
+• Long i (E2CB), counterpart to (A7FE)
+• Alternate Cyrillic ises (E301 & E302)
+• Teuthonista stroked i (E32B)
+• Teuthonista stroked j (E365)
+• Alternate K with hook (E36E)
+• Alternate Cyrillic kas (E377 & E378)
+• Marshallese glyphs with cedillas: L (E382 & E394), M (E3A6 & E3BB), N (E3CE & E3DE), O (E429 & E465)
+• Alternate Welsh Ll/ll (E388 & E39A)
+• m and n with curled legs for Lithuanian (E3C4 & E3E5)
+• Alternate retroflex N (E3EB)
+• Alternate Eng (E3FF); (A790 & A791) are also alternate Engs, originally used with Janalif.
+• Alternate Greek Omegas (E44C & E44D)
+• Teuthonista stroked o (E4A4)
+• Latin Phi (E520)
+• Alternate P/p with hook (E521 & E52C)
+• Alternate Cyrillic pe (E52D)
+• Alternate Latin Q or Cyrillic Qa (E537)
+• Alternate Yrs (E54D & E55A)
+• R with cedilla (E547 & E554)
+• Retroflex R (E54E), counterpart to (027B)
+• Alternate Esh (E564)
+• T with diaeresis (E572), counterpart to (1E97)
+• T/t with palatal hook (E575 & E582). This is an alternate for Saanich (Senćot̵en) J, and also a possible glyph for tsh/tch/ch/č.
+• Th/Tl and th/tl for Native American (01BB & 019B) and (E577 & E583)
+• Latin Thetas (E578 & E584) and (E579 & E585)
+• Alternate Thorn (E57A)
+• Alternate T with hook (E57B)
+• Alternate Cyrillic te (E586)
+• Alternate Cyrillic tse (E587)
+• UE (E5ED), counterpart to (1D6B)
+• Capital U with curl (E5EE), counterpart to (AB52)
+• Teuthonista stroked u (E606)
+• Alternate V/v with hook (E641 & E64B)
+• V with right hook (E642), counterpart to (2C71)
+• W with ring above (E653), counterpart to (1E98)
+• Alternate Cyrillic sha (E660)
+• Alternate Cyrillic shcha (E661)
+• Y with ring above (E67A), counterpart to (1E99)
+• Y/y with ogonek (E67D & E68C)
+• Alternate Cyrillic yu (E693)
+• Alternate Ezh (E69E)
+• z with palatal hook - for dialectological use (E6A8)
+• Alternate Cyrillic ze (E6A9)
+• Alternate Cyrillic zhe (E6AA)
+• Capital click consonants (E6AE–E6B2)
+• Extra rhoticization (E6B6)
+• Tonal glyphs (E6B8–E6BF)
+• Extra characters for Teuthonista (E6C4-E6D5): subscript dotless i (E6D0), modifier letter dotless i (E6D1), combining dotless i (E6D2), modifier letter stroked dotless i (E6D3)
+• Modifier letter e grave (E76B)
+• Modifier letter Theta for Native American languages (E76C)
+• Small script combining diaeresis (E76D)
+• Modifier letter dotless j (E76E)
+• Modifier letter dotless j with crossed-tail (E76F)
+• Alternate dollar sign (E7C5)
+• Capital Tironian et (E7C6)
+• Lowercase Latin et/ampersand (E7C7)
+• Chinantec alternates for spacing modifier letters (E7D0-E7D3)
+• Extended Cyrillic (E800-E83D)
+• Extended Cyrillic vzmets & titlos—the triple titlo anchors to the center character (E84A-E84E)
+
