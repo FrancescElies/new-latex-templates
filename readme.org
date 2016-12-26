@@ -1,5 +1,6 @@
 * README
 ** Try it out
+Inserts `jay-latex-yosemite-setup.el` into your emacs' init file
 *** calling `org-export-dispatch`
 **** export to latex
 `M-x: org-export-dispatch` `l l`
