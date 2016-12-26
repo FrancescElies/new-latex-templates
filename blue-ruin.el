@@ -95,7 +95,7 @@
     \\newline
 {\\myauthorfont\\Large © {\\the\\year} \\@author}
     \\newline
-          {\\myauthorfont\\Large \\href{mailto:dixit@aya.yale.edu}{dixit@aya.yale.edu}}
+          {\\myauthorfont\\Large \\href{mailto:\\emailcommand}{\\emailcommand}}
         \\newline
           %{\\myauthorfont\\Large \\href{http://jaydixit.com}{\\@degree}}
         \\newline
