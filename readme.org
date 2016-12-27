@@ -54,25 +54,3 @@ Toggle inclusion of tags, may also be not-in-toc (org-export-with-tags).
 *** #+EXPORT_EXCLUDE_TAGS
 *** #+LATEX_HEADER
 
-** TODOS
-*** TODO find out meaning of options
-#+OPTIONS:   H:1 num:t toc:t :nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:t tags:not-in-toc
-#+EXPORT_EXCLUDE_TAGS: noexport
-
-*** TODO chose opensource licensed fonts
-https://fontlibrary.org/
-**** search for alternatives to 
-  - Garamond Premier Pro
-  - Myriad Pro
-  - Gill Sans Display MT Pro
-
-**** Available options Options:
-http://www.georgduffner.at/ebgaramond/
-http://www.1001fonts.com/chunkfive-font.html
-https://fontlibrary.org/en/font/gelasio
-
-*** TODO increase spacing between paragraphs
-*** TODO increase spacing between numbered list items
-*** TODO increase spacing between bulleted list items
-*** TODO in the right header (rhead), remove space between @title and : character
