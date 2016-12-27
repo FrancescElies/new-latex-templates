@@ -22,9 +22,35 @@ pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" docume
 ** Headers explanation
 *** #+LaTeX_CLASS
 *** #+OPTIONS
-An explanation of each option defined in
-`#+OPTIONS: H:1 num:t toc:t :nil @:t ::t |:t ^:t -:t f:t *:t <:t`
-can be found in [[http://orgmode.org/manual/Export-settings.html#fnd-2][org-mode-export-settings]]
+An explanation of each defined option can be found in [[http://orgmode.org/manual/Export-settings.html#fnd-2][org-mode-export-settings]]
+
+#+srcname: options example
+#+begin_src org
+#+OPTIONS: H:1 num:t toc:t :nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:t tags:not-in-toc
+#+end_src
+
+**** Useful options
+***** H:
+Set the number of headline levels for export (org-export-headline-levels). Below
+that level, headlines are treated differently. In most back-ends, they become
+list items.
+
+***** num:
+Toggle section-numbers (org-export-with-section-numbers). It can also be set to
+a number ‘n’, so only headlines at that level or above will be numbered.
+Finally, irrespective of the level of a specific headline, the numbering of it
+can be disabled by setting the UNNUMBERED property to non-nil. This also affects
+subheadings.
+
+***** f:
+Toggle the inclusion of footnotes (org-export-with-footnotes). 
+
+***** tags:
+Toggle inclusion of tags, may also be not-in-toc (org-export-with-tags). 
+
+
+
 *** #+EXPORT_EXCLUDE_TAGS
 *** #+LATEX_HEADER
 
