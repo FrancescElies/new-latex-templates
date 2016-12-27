@@ -12,10 +12,21 @@ open the tex generated file
 `M-x: org-export-dispatch` `R R`
 
 *** from the command line
+
 #+srcname: compile the latex document
 #+begin_src shell 
 pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" document-example.tex
 #+end_src
+
+
+** Headers explanation
+*** #+LaTeX_CLASS
+*** #+OPTIONS
+An explanation of each option defined in
+`#+OPTIONS: H:1 num:t toc:t :nil @:t ::t |:t ^:t -:t f:t *:t <:t`
+can be found in [[http://orgmode.org/manual/Export-settings.html#fnd-2][org-mode-export-settings]]
+*** #+EXPORT_EXCLUDE_TAGS
+*** #+LATEX_HEADER
 
 ** TODOS
 *** TODO find out meaning of options
