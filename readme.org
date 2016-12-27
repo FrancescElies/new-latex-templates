@@ -1,23 +1,7 @@
 * README
 ** Try it out
 Inserts `jay-latex-yosemite-setup.el` into your emacs' init file
-*** calling `org-export-dispatch`
-**** export to latex
-`M-x: org-export-dispatch` `l l`
-open the tex generated file
-
-**** export to pdf, A pdf file and open
-`M-x: org-export-dispatch` `l o`
-**** export to reveal.js
-`M-x: org-export-dispatch` `R R`
-
-*** from the command line
-
-#+srcname: compile the latex document
-#+begin_src shell 
-pdflatex  -file-line-error  --synctex=1 -interaction=nonstopmode "\input" document-example.tex
-#+end_src
-
+Open `document-example.org` and export it with `M-x: org-latex-export-to-pdf`
 
 ** Headers explanation
 *** #+LaTeX_CLASS
