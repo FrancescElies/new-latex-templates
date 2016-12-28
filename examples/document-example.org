@@ -9,7 +9,7 @@
 #+LATEX_HEADER: \setcounter{tocdepth}{3}
 #+LATEX_HEADER: \leftheader{Ministry of Silly Walks} 
 #+LATEX_HEADER: \leftheaderurl{http://google.com} 
-#+LATEX_HEADER: \coverimage{images/n.jpg} 
+#+LATEX_HEADER: \coverimage{../images/n.jpg} 
 
 * Executive summary
 ** Overview
