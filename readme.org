@@ -35,4 +35,11 @@ Toggle inclusion of tags, may also be not-in-toc (org-export-with-tags).
 
 *** #+EXPORT_EXCLUDE_TAGS
 *** #+LATEX_HEADER
-
+** Fonts
+*** Links with multiple fonts
+https://www.theleagueofmoveabletype.com/
+https://fonts.google.com/
+*** Links to a single font
+http://iginomarini.com/fell/the-revival-fonts/
+https://github.com/klepas/open-baskerville/
+https://github.com/theleagueof
