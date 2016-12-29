@@ -7,7 +7,7 @@
 *** TODO What does LaTeX:t mean?
 *** TODO What does skip:nil mean?
 
-** TODO chose opensource licensed fonts
+** INPROGRESS chose opensource licensed fonts
 https://fontlibrary.org/
 *** search for alternatives to 
   - Garamond Premier Pro
