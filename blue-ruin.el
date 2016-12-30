@@ -14,13 +14,9 @@
 \\ifxetex
   \\usepackage{fontspec,xltxtra,xunicode}
   \\defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
-%% Set fonts through headers
-%% #+LATEX_HEADER: \newcommand{\setRomanFontName}{Justus Roman}
-%% #+LATEX_HEADER: \newcommand{\setSansFontName}{ChunkFive}
-%% #+LATEX_HEADER: \newcommand{\setMonoFontName}{Space Mono}
-  \\setromanfont{\\setRomanFontName}
-  \\setsansfont{\\setSansFontName}
-  \\setmonofont{\\setMonoFontName}
+  \\setromanfont{Gelasio}
+ \\setsansfont{ChunkFive}
+  \\setmonofont{Gelasio}
 \\else
   \\usepackage[mathletters]{ucs}
   \\usepackage[utf8x]{inputenc}
