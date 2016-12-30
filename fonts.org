@@ -1,0 +1,117 @@
+* Fonts
+** ChunkFive
+** Gelasio
+** Lora
+Lora is a well-balanced contemporary serif text typeface with roots in
+calligraphy. A paragraph set in Lora will make a memorable appearance because of
+its brushed curves counterposed with driving serifs.
+
+The overall typographic voice of Lora perfectly conveys the mood of a modern-day
+story, or an art essay. Technically Lora is optimized for screen appearance, and
+works equally well in print.
+
+** Open_Sans
+Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
+Director of Ascender Corp. This version contains the complete 897 character set,
+which includes the standard ISO Latin 1, Latin CE, Greek and Cyrillic character
+sets. Open Sans was designed with an upright stress, open forms and a neutral,
+yet friendly appearance. It was optimized for print, web, and mobile interfaces,
+and has excellent legibility characteristics in its letterforms.
+
+** PT_Sans
+PT Sans was developed for the project "Public Types of Russian Federation." The
+second family of the project, PT Serif, is also available.
+
+The fonts are released with a libre license and can be freely redistributed: The
+main aim of the project is to give possibility to the people of Russia to read
+and write in their native languages.
+
+The project is dedicated to the 300 year anniversary of the civil type invented
+by Peter the Great in 1708–1710. It was given financial support from the Russian
+Federal Agency for Press and Mass Communications.
+
+The fonts include standard Western, Central European and Cyrillic code pages,
+plus the characters of every title language in the Russian Federation. This
+makes them a unique and very important tool for modern digital communications.
+
+PT Sans is based on Russian sans serif types of the second part of the 20th
+century, but at the same time has distinctive features of contemporary
+humanistic designs. The family consists of 8 styles: 4 basic styles, 2 captions
+styles for small sizes, and 2 narrows styles for economic type setting.
+
+Designed by Alexandra Korolkova, Olga Umpeleva and Vladimir Yefimov and released
+by ParaType in 2009.
+
+** Playfair_Display
+Playfair is a transitional design. From the time of enlightenment in the late
+18th century, the broad nib quills were replaced by pointed steel pens. This
+influenced typographical letterforms to become increasingly detached from the
+written ones. Developments in printing technology, ink, and paper making, made
+it possible to print letterforms of high contrast and delicate hairlines.
+
+This design lends itself to this period, and while it is not a revival of any
+particular design, it takes influence from the designs of printer and typeface
+designer John Baskerville, the punchcutter William Martin’s typeface for the
+‘Boydell Shakspeare’ (sic) edition, and from the ‘Scotch Roman’ designs that
+followed thereafter.
+
+As the name indicates, Playfair Display is well suited for titling and
+headlines. It has an extra large x-height and short descenders. It can be set
+with no leading if space is tight, for instance in news headlines, or for
+stylistic effect in titles. Capitals are extra short, and only very slightly
+heavier than the lowercase characters. This helps achieve a more even
+typographical color when typesetting proper nouns and initialisms. Languages,
+like German, where nouns are capitalized, particularly benefit from this lower
+contrast between lower and upper case glyphs. In German, with its many
+capitalized words, and in other European languages that use many diacritical
+characters, it is advised to use more leading.
+
+Being a transitional design, stylistically Playfair can accompany Georgia, where
+Georgia is used for body text.
+
+Playfair's downloaded font files include a full set of small caps, common
+ligatures, and discretionary ligatures. For Polish, a set of alternate
+diacritical characters designed with ‘kreska’s are included. All European
+languages using the Latin writing system are supported. A set of eight arrow
+devices are also included.
+
+** Playfair Display SC
+Playfair is a transitional design. From the time of enlightenment in the late
+18th century, the broad nib quills were replaced by pointed steel pens. This
+influenced typographical letterforms to become increasingly detached from the
+written ones. Developments in printing technology, ink, and paper making, made
+it possible to print letterforms of high contrast and delicate hairlines.
+
+This design lends itself to this period, and while it is not a revival of any
+particular design, it takes influence from the designs of printer and typeface
+designer John Baskerville, the punchcutter William Martin’s typeface for the
+‘Boydell Shakspeare’ (sic) edition, and from the ‘Scotch Roman’ designs that
+followed thereafter.
+
+As the name indicates, Playfair Display is well suited for titling and
+headlines. It has an extra large x-height and short descenders. It can be set
+with no leading if space is tight, for instance in news headlines, or for
+stylistic effect in titles. Capitals are extra short, and only very slightly
+heavier than the lowercase characters. This helps achieve a more even
+typographical color when typesetting proper nouns and initialisms. Languages,
+like German, where nouns are capitalized, particularly benefit from this lower
+contrast between lower and upper case glyphs. In German, with its many
+capitalized words, and in other European languages that use many diacritical
+characters, it is advised to use more leading.
+
+Being a transitional design, stylistically Playfair can accompany Georgia, where
+Georgia is used for body text.
+
+This is the Small Cap sister family to the main Playfair Display family. The
+main family downloaded font files include a full set of small caps, common
+ligatures, and discretionary ligatures. For Polish, a set of alternate
+diacritical characters designed with ‘kreska’s are included. All European
+languages using the Latin writing system are supported. A set of eight arrow
+devices are also included.
+
+To contribute to the project contact Claus Eggers Sørensen.
+
+** Source_Sans_Pro
+Source® Sans Pro, Adobe's first open source typeface family, was designed by
+Paul D. Hunt. It is a sans serif typeface intended to work well in user
+interfaces.
