@@ -10,7 +10,7 @@ The overall typographic voice of Lora perfectly conveys the mood of a modern-day
 story, or an art essay. Technically Lora is optimized for screen appearance, and
 works equally well in print.
 
-** Open_Sans
+** Open Sans
 Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
 Director of Ascender Corp. This version contains the complete 897 character set,
 which includes the standard ISO Latin 1, Latin CE, Greek and Cyrillic character
@@ -18,7 +18,7 @@ sets. Open Sans was designed with an upright stress, open forms and a neutral,
 yet friendly appearance. It was optimized for print, web, and mobile interfaces,
 and has excellent legibility characteristics in its letterforms.
 
-** PT_Sans
+** PT Sans
 PT Sans was developed for the project "Public Types of Russian Federation." The
 second family of the project, PT Serif, is also available.
 
@@ -42,7 +42,7 @@ styles for small sizes, and 2 narrows styles for economic type setting.
 Designed by Alexandra Korolkova, Olga Umpeleva and Vladimir Yefimov and released
 by ParaType in 2009.
 
-** Playfair_Display
+** Playfair Display
 Playfair is a transitional design. From the time of enlightenment in the late
 18th century, the broad nib quills were replaced by pointed steel pens. This
 influenced typographical letterforms to become increasingly detached from the
