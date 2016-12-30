@@ -50,14 +50,10 @@
 \\hyphenpenalty=5000
 \\tolerance=1000
 
-%% Example latex header
-%% #+LATEX_HEADER: \newcommand{\titleFontName}{Justus Roman}
-%% #+LATEX_HEADER: \newcommand{\authorFontName}{Justus Roman}
-%% #+LATEX_HEADER: \newcommand{\blueFontName}{Justus Roman}
 %This macro is to make cleaner the specification of the titling font
-\\newfontfamily\\mytitlefont[Color={FB782C}]{\\titleFontName}
-\\newfontfamily\\myauthorfont[Color={FB782C}]{\\authorFontName}
-\\newfontfamily\\mybluefont[Color=electricblue]{\\blueFontName}
+\\newfontfamily\\mytitlefont[Color={FB782C}]{ChunkFive}
+\\newfontfamily\\myauthorfont[Color={FB782C}]{Gelasio}
+\\newfontfamily\\mybluefont[Color=electricblue]{Gelasio}
 \\DeclareTextFontCommand{\\textbf}{\\rmfamily\\color{electricblue}}
 \\DeclareTextFontCommand{\\textit}{\\\itshape\\color{electricblue}}
 
