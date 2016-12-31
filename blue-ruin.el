@@ -166,8 +166,8 @@
 \\titlespacing*{\\subsection}{0pt}{0pt}{-7pt}
 \\titlespacing*{\\subsubsection}{0pt}{6pt}{-5pt}
 
-\\titleformat*{\\section}{\\normalfont\\fontsize{36}{36}\\raggedright\\sffamily\\color{pinterestred}}
-\\titleformat*{\\subsection}{\\normalfont\\fontsize{20}{20}\\scshape\\color{electricblue}}
+\\titleformat*{\\section}{\\normalfont\\fontsize{23}{23}\\raggedright\\scshape\\color{pinterestred}}
+\\titleformat*{\\subsection}{\\normalfont\\fontsize{18}{18}\\scshape\\color{electricblue}}
 \\titleformat*{\\subsubsection}{\\normalfont\\fontsize{12}{8}\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\paragraph}{\\normalfont\\normalsize\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\subparagraph}{\\normalfont\\fontsize{14}{14}\\raggedright\\bfseries\\ttfamily\\color{electricblue}}
