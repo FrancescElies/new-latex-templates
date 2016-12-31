@@ -171,6 +171,10 @@
 \\titleformat*{\\subsubsection}{\\normalfont\\fontsize{12}{8}\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\paragraph}{\\normalfont\\normalsize\\raggedright\\bfseries\\rmfamily\\color{pinterestred}}
 \\titleformat*{\\subparagraph}{\\normalfont\\fontsize{14}{14}\\raggedright\\bfseries\\ttfamily\\color{electricblue}}
+
+%===============================================================================
+%                           Hyperlinks
+%===============================================================================
 \\usepackage[breaklinks=true,linktocpage,xetex]{hyperref}
 \\hypersetup{colorlinks, citecolor=electricblue,filecolor=electricblue,linkcolor=electricblue,urlcolor=electricblue}
 
