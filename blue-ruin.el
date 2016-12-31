@@ -153,6 +153,9 @@
 
 \\newcommand{\\textsubscr}[1]{\\ensuremath{_{\\scriptsize\\textrm{#1}}}}
 
+%===============================================================================
+%                        Items enumeration
+%===============================================================================
 \\usepackage{enumitem}
 %\\setlist{nolistsep}
 \\setlist{topsep=0pt}
@@ -161,6 +164,9 @@
 \\renewcommand{\\labelitemiii}{$\\bullet$}
 \\renewcommand{\\labelitemiv}{$\\bullet$}
 
+%===============================================================================
+%                        Titles' formatting
+%===============================================================================
 \\usepackage[sc]{titlesec}
 \\titlespacing*{\\section}{0pt}{6pt}{-7pt}
 \\titlespacing*{\\subsection}{0pt}{0pt}{-7pt}
