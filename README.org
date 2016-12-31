@@ -41,3 +41,5 @@ For more info about the fonts dound in the fonts folder visit
  - https://fonts.google.com/
  - [[file:fonts.org]]
 
+** Dependencies
+https://github.com/rejeep/f.el
