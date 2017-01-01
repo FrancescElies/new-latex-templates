@@ -9,8 +9,3 @@
                ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
                ("\\paragraph{%s}" . "\\paragraph*{%s}")
                ("\\subparagraph{%s}" . "\\subparagraph*{%s}")))
-
-
-(setq org-latex-to-pdf-process
-      '("xelatex -interaction nonstopmode %f"
-        "xelatex -interaction nonstopmode %f")) ;; for multiple passes
