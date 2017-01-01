@@ -1,7 +1,9 @@
 (provide 'blue-ruin)
 
 (add-to-list 'org-latex-classes
-             `("blue-ruin" ,(f-read "./blue-ruin.tex")
+             `((f-base buffer-file-name)
+               ,(f-read
+                 (replace-regexp-in-string "\.el" "\.tex" buffer-file-name))
                ("\\section{%s}" . "\\section*{%s}")
                ("\\subsection{%s}" . "\\subsection*{%s}")
                ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
